@@ -19,9 +19,9 @@ export const metadata = {
 
 function Header() {
   return (
-    <header class="bg-slate-500 py-4">
-      <div class="container mx-auto px-4">
-        <nav class="flex justify-between items-center">
+    <header className="bg-slate-500 py-4">
+      <div className="container mx-auto px-4">
+        <nav className="flex justify-between items-center">
           <div className="flex items-center">
             <Link href="/">Snowtooth Mountain</Link>
           </div>
